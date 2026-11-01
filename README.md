@@ -7,7 +7,7 @@ A Geode mod for Geometry Dash 2.2081 that replays `.gdr` macros input-for-input.
 Pushing to GitHub runs `.github/workflows/build.yml`, which:
 
 1. builds and runs the parser/playback tests (`tests/`), and
-2. builds the mod for Windows, macOS, iOS and Android with `geode-sdk/build-geode-mod`, then combines them into one `lockyexe.macro-player.geode`.
+2. builds the mod for Windows, macOS and Android with `geode-sdk/build-geode-mod`, then combines them into one `lockyexe.macro-player.geode`.
 
 Download it from the run's **Macro Player** artifact. Pushing a tag like `v1.0.0` also attaches it to a GitHub release.
 
