@@ -1,0 +1,15 @@
+{
+	"geode": "5.9.0",
+	"gd": {
+		"win": "2.2081",
+		"mac": "2.2081",
+		"android": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "lockyexe.macro-player",
+	"name": "Macro Player",
+	"version": "v1.0.0",
+	"developer": "lockyexe",
+	"description": "Plays back .gdr macros exactly as recorded. Caps Lock opens the menu.",
+	"tags": ["gameplay", "utility"]
+}
